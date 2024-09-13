@@ -31,7 +31,7 @@ countdown/
 
     Navegue até o diretório do projeto:
     ```bash
-    cd conuntdown
+    cd countdown
 
 3. **Abra o Arquivo HTML**
 
