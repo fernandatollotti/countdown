@@ -8,14 +8,15 @@ Este projeto implementa um cronômetro simples que faz uma contagem regressiva d
 - JavaScript
 
 ## Estrutura do Projeto
-
+```bash
 countdown/
 │
 ├── index.html
-├── assets/
-│   └── js/
-│       └── script.js
-└── README.md
+└── assets/
+    └── js/
+        └── script.js
+```
+
 
 ## Como Usar
 
