@@ -41,4 +41,7 @@ countdown/
 
     Clique no botão "Iniciar" para começar a contagem regressiva. O contador começará a partir de 60 segundos e diminuirá a cada segundo.
 
+## Licença
+
+Este projeto está licenciado sob a MIT License.
 
